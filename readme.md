@@ -8,7 +8,7 @@ this is the full table :
 
 | Session Number    | Task Subject                                             | Google Drive Link  | COMPLETED ? |
 |-------------------|----------------------------------------------------------|----------|-------------|
-| [Session 1](https://github.com/EryX0/Diginext-DevOps-Challenge/tree/main/Session1)         | Virtualization and Networking                            | [GD-S1](https://drive.google.com/drive/folders/1DACEzaQhepgTS9UxCGCPHWPLvADcZFGX)    | Ongoing            |
+| [Session 1](https://github.com/EryX0/Diginext-DevOps-Challenge/tree/main/Session1)         | Virtualization and Networking                            | [GD-S1](https://drive.google.com/drive/folders/1DACEzaQhepgTS9UxCGCPHWPLvADcZFGX)    | Completed            |
 | [Session 2](https://github.com/EryX0/Diginext-DevOps-Challenge/tree/main/Session2)         | Docker-Compose with persistent data                      | [GD-S2](https://drive.google.com/drive/folders/1V3qng46qK_N1CTP1n1pXUgGn9rnknL-_)         |             |
 | [Session 3](https://github.com/EryX0/Diginext-DevOps-Challenge/tree/main/Session3)         | Reverse Proxy                                            | [GD-S3](https://drive.google.com/drive/folders/1pJixrWAJ_IFAy0cnGBkUM7tLWe0mTRHj)            |             |
 | [Session 4](https://github.com/EryX0/Diginext-DevOps-Challenge/tree/main/Session4)         | Container Orchestration Part 1 (k8s setup the-hard-way)  | [GD-S4](https://drive.google.com/drive/folders/1aGaiSCHpBDSy5EKFCZBTotUzxShu9-MA)            |             |
